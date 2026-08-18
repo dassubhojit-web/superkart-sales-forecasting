@@ -1,0 +1,9 @@
+# Local credentials and obsolete generated folders
+HuggingFace.txt
+backend_files/
+frontend_files/
+
+# Python and notebook caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
