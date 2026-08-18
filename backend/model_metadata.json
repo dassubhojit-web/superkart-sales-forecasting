@@ -1,0 +1,25 @@
+{
+  "selected_model": "Random Forest - Tuned",
+  "reference_year": 2026,
+  "features": [
+    "Product_Weight",
+    "Product_Sugar_Content",
+    "Product_Allocated_Area",
+    "Product_MRP",
+    "Store_Size",
+    "Store_Location_City_Type",
+    "Store_Type",
+    "Product_Id_char",
+    "Store_Age_Years",
+    "Product_Type_Category"
+  ],
+  "test_metrics": {
+    "RMSE": 277.2583002225586,
+    "MAE": 111.22936179085923,
+    "MAPE (%)": 4.096184781304587,
+    "R2": 0.932628555631033,
+    "Adjusted R2": 0.9317718089396357
+  },
+  "python_version": "3.12.13",
+  "scikit_learn_version": "1.6.1"
+}
